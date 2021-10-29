@@ -19,3 +19,4 @@ Termux için gerekli 21 araç
     bash start.sh
 ```
 
+# Sırasıyla kopyalayıp termux a yapıştırın gerisini bırakın zaten size ne yapacağınızı orda yazı ile gösterecektir
