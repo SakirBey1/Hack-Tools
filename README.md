@@ -1,7 +1,13 @@
 # Hack-Tools
 Termux için gerekli 21 araç
-"<br><b>Kurulum</b><br>"
-1=) "pkg install git -y<br>"
-2=) "git clone https://github.com/yamanefkar/Hack-Tools<br>"
-3=) "cd Hack-Tools<br>"
-4=) "bash start.sh"
+
+<code><b>Kurulum</b></code>
+
+1=) <code>pkg install git -y</code>
+
+2=) <code>git clone https://github.com/yamanefkar/Hack-Tools</code>
+
+3=) <code>cd Hack-Tools</code>
+
+4=) bash start.sh</code>
+
